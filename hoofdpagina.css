@@ -8,12 +8,14 @@ body {
 h1 {
     color: #234575;
     text-align: center;
+    text-shadow: -1px -1px 0 #234575 ;
 }
 
 h2 {
     color: #234575;
     border-bottom: 2px solid #4b91d1;
     padding-block: 5px;
+    text-shadow: -1px -1px 0 #4b91d1;
 }
 
 ul {
