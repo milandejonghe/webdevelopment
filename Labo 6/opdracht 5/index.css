@@ -1,0 +1,9 @@
+body{
+    a{
+        background-image: url("image/img.png") ;
+        background-repeat: no-repeat;
+        background-position: left center;
+        background-size: 16px 16px;
+        padding-left: 22px;
+    }
+}
