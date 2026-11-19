@@ -1,0 +1,92 @@
+body{
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    font-size: 1.2em;
+}
+h1,h2{
+    color: #007e7e;
+}
+h1{
+    font-size: 150%;
+}
+h2{
+    font-size: 120%;
+}
+#elixirs h1{
+    color: #e67e22;
+}
+#elixirs h2{
+    color: #8e44ad;
+}
+footer {
+    font-size: 50%;
+}
+#elixirs a:hover{
+    background-color: brown;
+}
+#elixirs {
+    padding: 15px;
+}
+.cd {
+    font-style: italic;
+}
+.artist {
+    font-weight: bold;
+}
+.color {
+    margin: 30px;
+    padding: 20px;
+    color: #444444;
+    background-color: #a7cece;
+    border: 2px dotted white;
+}
+#wrapper {
+    width: 95%;
+    margin: 0 auto;
+}
+#content {
+    width: 70%;
+    float: left;
+    box-sizing: border-box;
+}
+#elixirs {
+    width: 25%;
+    float: right;
+    box-sizing: border-box;
+    padding: 15px;
+}
+footer {
+    width: 70%;
+    float: left;
+    clear: none;
+    box-sizing: border-box;
+    font-size: 50%;
+    text-align: right;
+}
+header {
+    width: 100%;
+}
+#elixirs {
+    width: 25%;
+    float: right;
+    box-sizing: border-box;
+    padding: 15px;
+    border: 2px solid #a7cece;
+    text-align: center;
+}
+#elixirs {
+    background-image: url("../images/cocktail.gif");
+    background-repeat: repeat-x;
+    background-position: top center;
+    background-size: 50px auto;
+    padding-top: 35px;
+}
+header p {
+    text-align: center;
+}
+
+header #imgHeader {
+    width: 20%;
+    height: auto;
+    position: relative;
+    left: 30px;
+}
